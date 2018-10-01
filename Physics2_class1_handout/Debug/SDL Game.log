@@ -1,0 +1,5 @@
+﻿  ModulePhysics.cpp
+c:\users\w10\documents\2n de gddv\fisica 2\practic\physics2_class1_handout\modulephysics.cpp(54): warning C4244: '=': conversión de 'int' a 'float32'; posible pérdida de datos
+c:\users\w10\documents\2n de gddv\fisica 2\practic\physics2_class1_handout\modulephysics.cpp(86): warning C4244: 'argumento': conversión de 'int' a 'float32'; posible pérdida de datos
+c:\users\w10\documents\2n de gddv\fisica 2\practic\physics2_class1_handout\modulephysics.cpp(117): warning C4244: 'argumento': conversión de 'float32' a 'int'; posible pérdida de datos
+  SDL Game.vcxproj -> C:\Users\W10\Documents\2n de GDDV\Fisica 2\Practic\Physics2_class1_handout\Debug\Physics 2 Class 1 Handout.exe
