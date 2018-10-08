@@ -1,0 +1,148 @@
+﻿  Application.cpp
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(35): error C2061: syntax error: identifier 'float32'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(37): error C2027: use of undefined type 'Application'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulewindow.h(7): note: see declaration of 'Application'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2065: 'b2BodyDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2146: syntax error: missing ';' before identifier 'circle'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(40): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(40): error C2065: 'b2_dynamicBody': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(41): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(41): error C2027: use of undefined type 'Application'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulewindow.h(7): note: see declaration of 'Application'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(43): error C2027: use of undefined type 'b2World'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(14): note: see declaration of 'b2World'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(43): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2065: 'b2CircleShape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2146: syntax error: missing ';' before identifier 'shape'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(46): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(46): error C2065: 'radius': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2065: 'b2FixtureDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2146: syntax error: missing ';' before identifier 'fixture'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(48): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(48): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(50): error C2027: use of undefined type 'b2Body'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(15): note: see declaration of 'b2Body'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(50): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(56): error C2027: use of undefined type 'Application'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulewindow.h(7): note: see declaration of 'Application'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2065: 'b2BodyDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2146: syntax error: missing ';' before identifier 'body2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(62): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(62): error C2065: 'b2_dynamicBody': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(63): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(63): error C2027: use of undefined type 'Application'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulewindow.h(7): note: see declaration of 'Application'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(65): error C2027: use of undefined type 'b2World'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(14): note: see declaration of 'b2World'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(65): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2065: 'b2PolygonShape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2146: syntax error: missing ';' before identifier 'shape2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(68): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2065: 'b2FixtureDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2146: syntax error: missing ';' before identifier 'fixture2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(71): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(72): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(72): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(74): error C2027: use of undefined type 'b2Body'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(15): note: see declaration of 'b2Body'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(74): error C2065: 'fixture2': undeclared identifier
+  ModulePhysics.cpp
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(35): error C2061: syntax error: identifier 'float32'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2065: 'b2BodyDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2146: syntax error: missing ';' before identifier 'circle'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(40): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(40): error C2065: 'b2_dynamicBody': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(41): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(43): error C2027: use of undefined type 'b2World'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(14): note: see declaration of 'b2World'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(43): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2065: 'b2CircleShape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2146: syntax error: missing ';' before identifier 'shape'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(46): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(46): error C2065: 'radius': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2065: 'b2FixtureDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2146: syntax error: missing ';' before identifier 'fixture'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(48): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(48): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(50): error C2027: use of undefined type 'b2Body'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(15): note: see declaration of 'b2Body'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(50): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2065: 'b2BodyDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2146: syntax error: missing ';' before identifier 'body2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(62): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(62): error C2065: 'b2_dynamicBody': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(63): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(65): error C2027: use of undefined type 'b2World'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(14): note: see declaration of 'b2World'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(65): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2065: 'b2PolygonShape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2146: syntax error: missing ';' before identifier 'shape2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(68): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2065: 'b2FixtureDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2146: syntax error: missing ';' before identifier 'fixture2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(71): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(72): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(72): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(74): error C2027: use of undefined type 'b2Body'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(15): note: see declaration of 'b2Body'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(74): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ModuleSceneIntro.cpp
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(35): error C2061: syntax error: identifier 'float32'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2065: 'b2BodyDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2146: syntax error: missing ';' before identifier 'circle'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(39): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(40): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(40): error C2065: 'b2_dynamicBody': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(41): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(43): error C2027: use of undefined type 'b2World'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(14): note: see declaration of 'b2World'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(43): error C2065: 'circle': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2065: 'b2CircleShape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2146: syntax error: missing ';' before identifier 'shape'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(45): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(46): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(46): error C2065: 'radius': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2065: 'b2FixtureDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2146: syntax error: missing ';' before identifier 'fixture'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(47): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(48): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(48): error C2065: 'shape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(50): error C2027: use of undefined type 'b2Body'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(15): note: see declaration of 'b2Body'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(50): error C2065: 'fixture': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2065: 'b2BodyDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2146: syntax error: missing ';' before identifier 'body2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(61): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(62): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(62): error C2065: 'b2_dynamicBody': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(63): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(65): error C2027: use of undefined type 'b2World'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(14): note: see declaration of 'b2World'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(65): error C2065: 'body2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2065: 'b2PolygonShape': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2146: syntax error: missing ';' before identifier 'shape2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(67): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(68): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2065: 'b2FixtureDef': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2146: syntax error: missing ';' before identifier 'fixture2'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(70): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(71): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(72): error C2065: 'fixture2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(72): error C2065: 'shape2': undeclared identifier
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(74): error C2027: use of undefined type 'b2Body'
+  c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(15): note: see declaration of 'b2Body'
+c:\users\polbm\documents\github\physics_box_2d\physics2_class2_handout\modulephysics.h(74): error C2065: 'fixture2': undeclared identifier
+  Generating Code...
